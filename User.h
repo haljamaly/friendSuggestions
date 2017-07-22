@@ -1,8 +1,7 @@
 /*
  * User.h
- * Author: Hasan Al Jamaly & Nicole Stone
+ * Author: Hasan Al Jamaly
  * Date:   6/5/2017
- * Assignment: PA4 
  * Description: This file contains the class declaration of the User class, 
  * used to represent the vertices in the friend graph used for social network
  * paltform representation. The users can be connected by each other with 
