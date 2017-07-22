@@ -1,8 +1,7 @@
 /*
  * FriendGraph.h
- * Author: Hasan Al Jamaly & Nicole Stone
+ * Author: Hasan Al Jamaly
  * Date:   6/5/2017
- * Assignment: PA4 
  * Description: This file contains the class declaration of the FriendGraph, 
  * a graph that is formed by twitter and facebook user connections determined
  * by the followers/friends of each social platform. Nodes represent users and
