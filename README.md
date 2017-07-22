@@ -3,14 +3,14 @@ Description: This File is responsible for the description of the extension
 section of this project. A detailed overview of why this program was designed
 and how to run the program can be found written in this document. 
 
-** The problem solved ** 
+# The problem solved  
 In large social networks such as Facebook and Twitter, you find a large array of
 users, and attempting to know what suggestion should be made for each user (in 
 terms of who to befriend or follow), can be rather difficult. The problem solved
 is basically finding closed components within these social networks and writing 
 out the friend/follow suggestion to be made.
 
-** How it was solved **
+# How it was solved 
 This problem was solved for both social networks Facebook and Twitter.
 Since Facebook is based on an undirected relationship (friendship goes both
 ways), then using an egoNetwork was implemented to find the friend suggestion
@@ -27,14 +27,14 @@ strongly connected component that are not directly connected to each other in
 any way. (This means it only occurs when neither twitter users follow the 
 other user at hand).
 
-** How it was tested ** 
+# How it was tested
 After implementing the necessary function for this program to work, different
 test files were created with the actual graph already drawn out by hand. That 
 way, we can use the drawing to validate the output of the program by comparing
 the manual results with the program ones.  The testing for the facebook one took
 place using the small_test_graph and designated facebook testing files. 
 
-** HOW TO RUN THE PROGRAM ** 
+# HOW TO RUN THE PROGRAM 
 1. For the facebook version: 
 
    Run the following command; 
@@ -51,11 +51,11 @@ place using the small_test_graph and designated facebook testing files.
    Example:
    ./extension twitter_file1.txt outfile2 twitter
 
-** Database used ** 
+# Database used 
 The databases used were the ones provided in SocialNetwork, including the
 facebook files and twitter files.
 
-**Smaller testing files**
+# Smaller testing files
 For the facebook implementation: 
 1. facebook_test1.txt
 2. facebook_test2.txt
