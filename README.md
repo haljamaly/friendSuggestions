@@ -52,8 +52,7 @@ place using the small_test_graph and designated facebook testing files.
    ./extension twitter_file1.txt outfile2 twitter
 
 # Database used 
-The databases used were the ones provided in SocialNetwork, including the
-facebook files and twitter files.
+The database used, showed minimally in the test files, is given in the formating of two numbers per line, where each number represents a user in either the facebook social network or the twitter social network. The two numbers on the same line in the facebook version means they are mutual friends (represented as a directed relationship, although it is mutual and undirected in nature). The twitter version shows the first number as the account following that of the second number (represnted as a directed relationship
 
 # Smaller testing files
 For the facebook implementation: 
