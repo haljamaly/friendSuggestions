@@ -1,7 +1,6 @@
 /* 
- * Authors: Hasan Al Jamaly & Nicole Stone
+ * Authors: Hasan Al Jamaly
  * Date: 6/5/2017
- * Assignment: PA4
  * File name: extension.cpp
  * Description:
  *  This is the driver program for the extension, which is responsible for
