@@ -1,8 +1,7 @@
 /*
  * Friendship.cpp
- * Author: Hasan Al Jamaly & Nicole Stone
+ * Author: Hasan Al Jamaly
  * Date:   6/5/2017
- * Assignment: PA4 
  * Description: This file contains the class implementation of the Friendship 
  * class, which represents the edge in a social media platform. The friendship
  * is used to connect two users. THis friendship is directed, meaning there 
